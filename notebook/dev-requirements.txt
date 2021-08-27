@@ -1,0 +1,14 @@
+numpy
+quadpy
+scipy
+matplotlib
+ipywidgets
+jupyter
+pandas
+pymatsolver
+SimPEG
+sphinx
+sphinx_rtd_theme
+nbsphinx
+testipynb
+pytest

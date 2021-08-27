@@ -1,0 +1,10 @@
+numpy
+quadpy
+scipy
+matplotlib
+ipywidgets
+jupyter
+discretize
+SimPEG
+pymatsolver
+pandas
